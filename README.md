@@ -1,0 +1,1 @@
+A google trends scraper implementing Selenium framework and tkinter.
